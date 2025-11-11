@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Zadanie_8.2</string>
+    <string name="error">Wystąpił błąd</string>
 </resources>
